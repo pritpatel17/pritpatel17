@@ -2,7 +2,6 @@
 <p align="center"><img alt="Coding" width=100% height=100% src="https://miro.medium.com/v2/resize:fit:900/1*b29pJKZqp6Jxb3rd9QlJiw.png" ></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritpatel17&label=Profile%20views&color=0e75b6&style=flat" alt="pritpatel17"/> </p>
 - 🌱 I’m currently learning <B>React</B>
-- 💬 Ask me about <B>MERN</B>
 - 📫 How to reach me <B>pritpatel7673@gmail.com</B>
 <p align="left"></p>
 <h2 align="center" >Language & Tools</h2>
